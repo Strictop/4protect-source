@@ -46,6 +46,4 @@ votre bot fonctionne maintenant 24/7.
 ```
 ![image](https://github.com/4wip/Crowbot-Fix/assets/168364544/9c70adb6-34f7-44fe-97ad-78b46c2795bf)
 
-## Crédit
 
-Ce bot a été créé par **Betaaaaaaaaaaa** modifiée par moi.
